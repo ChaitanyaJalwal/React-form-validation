@@ -7,6 +7,8 @@
 3.  Then give the command npm start
 
 The screenshots of final output:
-![image](https://github.com/ChaitanyaJalwal/React-form-validation/assets/93027494/7785ae5b-b92d-434a-a865-778abb091a88)
-![image](https://github.com/ChaitanyaJalwal/React-form-validation/assets/93027494/e66f466a-d650-4f04-afc2-5de025cbe762)
+![image](https://github.com/ChaitanyaJalwal/React-form-validation/assets/93027494/6770e0c3-fa05-41a1-8e74-6a4efc22820e)
+![image](https://github.com/ChaitanyaJalwal/React-form-validation/assets/93027494/a3f990d7-0830-4168-813f-a9d36dc7f6a2)
+
+
 
